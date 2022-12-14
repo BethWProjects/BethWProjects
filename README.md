@@ -11,7 +11,7 @@ Hi, I'm Beth 👋 and I am studying front-end development at the <a href="https:
 ### About Me
  * Pronouns: she/her <br />
  * I'm currently focused on learning GraphQL<br />
- * As a former Quality Assurance Engineer, I love working on web applications and am excited to build new applications!<br />
+ * As a former Quality Assurance Engineer, I love working on web applications and am excited to build new products!<br />
  * I love being outdoors with my family, skiing or walking my dog Jimmy. <br />
  * Random fact: I love fruit, but not in a pie!<br />
  
