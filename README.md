@@ -1,4 +1,4 @@
-![Beth Wilson Welcome Banner]()
+![Beth Wilson Welcome Banner](https://user-images.githubusercontent.com/38263992/207731187-473c3fb2-6e0b-4625-a365-495528fee42e.jpg)
 
 <p align="center">
 Hi, I'm Beth 👋 and I am studying front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
@@ -41,7 +41,7 @@ Hi, I'm Beth 👋 and I am studying front-end development at the <a href="https:
  📚 I'm currently focused on learning GraphQL<br />
  🎉 As a former Quality Assurance Engineer, I love working on web applications and am excited to build new applications!<br />
  🌻 Pronouns: she/her<br />
- 🥔 Fun fact: I love animals, particularly dogs and horses!<br />
+ 🔮 Fun fact: I love animals, particularly dogs and horses!<br />
 
 <!-- LINKS ***************************************************************************************** -->
 [TypeScript-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
