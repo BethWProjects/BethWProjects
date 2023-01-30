@@ -1,7 +1,7 @@
 ![Beth Wilson Welcome Banner](https://user-images.githubusercontent.com/38263992/207731187-473c3fb2-6e0b-4625-a365-495528fee42e.jpg)
 
 <p align="center">
-Hi, I'm Beth 👋 and I am studying front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
+Hi, I'm Beth 👋 and I am a graduate from the front-end development program at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
 </p>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/beth-wilson-92594284/">LinkedIn</a> | <a href="mailto:bethwilson777@gmail.com">GMail</a></h3>
