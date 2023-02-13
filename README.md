@@ -18,7 +18,7 @@ Hi, I'm Beth 👋 and I am a graduate from the front-end development program at 
 <hr />
 
 ### Languages
-![TypeScript][TypeScript-shield]
+<!-- ![TypeScript][TypeScript-shield] -->
 ![JavaScript][JavaScript-shield]
 ![CSS][CSS-shield]
 ![HTML5][HTML-shield]
