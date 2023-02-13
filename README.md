@@ -21,7 +21,6 @@ Hi, I'm Beth 👋 and I am a graduate from the front-end development program at 
 ![JavaScript][JavaScript-shield]
 ![CSS][CSS-shield]
 ![HTML5][HTML-shield]
-![Markdown][Markdown-shield]
 
 ### Frameworks, Libraries & Testing
 ![React][React-shield]
@@ -29,13 +28,10 @@ Hi, I'm Beth 👋 and I am a graduate from the front-end development program at 
 ![Mocha][Mocha-shield]
 ![Chai][Chai-shield]
 ![Cypress][Cypress-shield]
-![NPM][NPM-shield]
-![NodeJS][NodeJs-shield]
 
 ### Tools
 ![Git][Git-shield]
 ![GitHub][GitHub-shield]
-![Webpack][Webpack-shield]
 
 ### Processes
 - Test-Driven Development (TDD)
