@@ -9,9 +9,8 @@ Hi, I'm Beth 👋 and I am a graduate from the front-end development program at 
 <hr />
 
 ### About Me
- * Pronouns: she/her <br />
  * I'm currently focused on learning React Hooks<br />
- * As a former Quality Assurance Engineer, I love working on web applications and am excited to build new products!<br />
+ * As a Senior Quality Assurance Engineer and Software Developer, I love working on web applications and am excited to build new products!<br />
  * I love being outdoors with my family, skiing or walking my dog Jimmy. <br />
  * Random fact: I love fruit, but not in a pie!<br />
  
